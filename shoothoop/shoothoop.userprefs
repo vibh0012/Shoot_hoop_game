@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\time_dispayscript.cs">
+    <Files>
+      <File FileName="Assets\scripts\camera_rotation.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\balllauncher.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\targethit.cs" Line="6" Column="25" />
+      <File FileName="Assets\scripts\scoreboard.cs" Line="16" Column="9" />
+      <File FileName="Assets\scripts\endscene.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\levelmanager.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\score_text.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\time_dispayscript.cs" Line="4" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
